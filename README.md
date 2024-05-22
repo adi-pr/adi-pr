@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
-<h3 align="center">I am a second year computer science student studying the arts of software engineering</h3>
-
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/adi-pr/personal-website.git)
+<h3 align="center">I am a self taught software engineering</h3>
 
 - 🤝 I’m looking to collaborate on [Whatsapp Bot](https://github.com/adi-pr/whatsapp-bot.git)
 
