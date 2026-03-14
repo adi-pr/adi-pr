@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking to collaborate on [Whatsapp Bot](https://github.com/adi-pr/whatsapp-bot.git)
 
-- 📫 How to reach me **adityaprasad883+contact@gmail.com**
+- 📫 How to reach me **adityaprasad7123+contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
