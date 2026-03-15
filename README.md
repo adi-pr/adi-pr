@@ -36,6 +36,7 @@ I generally use whatever technology best fits the project.
 
 ## About Me
 
-• Software engineer with hands-on experience building real-world systems  
-• Interested in solving complex engineering problems  
-• Focused on building reliable and scalable applications
+- Software engineer with hands-on experience building real-world systems  
+- Interested in solving complex engineering problems  
+- Focused on building reliable and scalable applications
+- Spend part of my free time researching cybersecurity and web application security
