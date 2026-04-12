@@ -26,14 +26,6 @@ I generally use whatever technology best fits the project.
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adi-pr&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-pr&layout=compact&hide_border=true)
-
----
-
 ## About Me
 
 - Software engineer with hands-on experience building real-world systems  
