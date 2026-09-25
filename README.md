@@ -115,11 +115,11 @@
 | Project | Description | Stack |
 |---|---|---|
 | [mirage](https://github.com/adi-pr/mirage) | A self-mutating network deception system | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [deadlock](https://github.com/adi-pr/deadlock) | AI-driven autonomous threat actor for security research that adapts its attacks to the target | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [MemoCore](https://github.com/adi-pr/MemoCore) | RAG engine that turns Wiki.js content into a context-aware assistant using local LLMs and vector search | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [dev](https://github.com/adi-pr/dev) | A personal CLI for my Linux workstation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [whatsarr](https://github.com/adi-pr/whatsarr) | Radarr, Sonarr and Prowlarr, controlled from WhatsApp | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [mmg-wp-plugin](https://github.com/adi-pr/mmg-wp-plugin) | WooCommerce gateway for the MMG Checkout API, which I help maintain | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| [odoo-client-handler](https://github.com/adi-pr/odoo-client-handler) | pip package for working with Odoo databases over XML-RPC | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [lc-3-vm](https://github.com/adi-pr/lc-3-vm) | A virtual machine for the LC-3 architecture | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 
 ---
