@@ -1,34 +1,116 @@
-# Hi, I'm Aditya (Ruben) Prasad 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1793D1,100:0d1117&height=200&section=header&text=Aditya%20(Ruben)%20Prasad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Technical%20Lead%20%E2%80%A2%20Web%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+</p>
 
-Software Engineer and Business Consultant with 3+ years of experience building complex applications and systems.
+<p align="center">
+  <a href="https://github.com/adi-pr">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1793D1&center=true&vCenter=true&width=600&lines=Building+backend+systems+and+infra;Shipping+RAG+and+local+LLM+tooling;Turning+drone+data+into+maps;Breaking+web+apps+(legally);btw%2C+I+use+Arch" alt="Typing SVG" />
+  </a>
+</p>
 
-I enjoy designing and building practical solutions — from backend services to full-stack applications.
-
----
-
-## Tech I Work With
-
-JavaScript • Python • Go
-
-Frameworks / Tools  
-Next.js • Node.js • APIs • Cloud Services • Git
-
-I generally use whatever technology best fits the project.
-
----
-
-## What I Like Building
-
-• Complex backend systems  
-• Automation pipelines  
-• Full-stack web applications  
-• Web security & penetration testing
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Georgetown-Guyana-1793D1?style=flat-square" alt="Guyana" />
+  <a href="https://linkedin.com/in/aditya-prasad-325522243"><img src="https://img.shields.io/badge/LinkedIn-connect-1793D1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## About Me
+### `$ fastfetch`
 
-- Software engineer with hands-on experience building real-world systems  
-- Interested in solving complex engineering problems  
-- Focused on building reliable and scalable applications
-- Spend part of my free time researching cybersecurity and web application security
+```
+                  -`                     ruben@arch
+                 .o+`                    ----------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: Georgetown, Guyana
+              `+oooooo:                  Kernel: Software Engineer / Tech Lead
+              -+oooooo+:                 Uptime: 3+ years in production
+            `/:-:++oooo+:                WM: Hyprland (Caelestia)
+           `/++++/+++++++:               Packages: go, ts, js, python, c, php
+          `/++++++++++++++:              Frontend: react, next.js, wordpress
+         `/+++ooooooooooooo/`            Backend: node, go, rest apis
+        ./ooosssso++osssssso+`           Infra: linux, networking, logging
+       .oossssso-````/ossssss+`          AI: rag, vector search, local llms
+      -osssssso.      :ssssssso.         Security: web exploitation
+     :osssssss/        osssso+++.        Currently: hack the box, web path
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+```
+
+---
+
+### `$ systemctl list-units --state=running`
+
+| Unit | Description |
+|---|---|
+| `fullstack.service` | Web apps end to end with React, Node.js, Go and REST APIs |
+| `devops.service` | Production deployments, server hardening, network setup and centralized logging |
+| `rag.service` | AI assistants over company docs using retrieval, vector search and local LLMs |
+| `geospatial.service` | Drone inspection platforms with LiDAR, thermal imaging, mapping and live video |
+| `automation.service` | Bots, integrations and CLIs that get rid of repetitive work |
+| `websec.service` | Web app pentesting and figuring out how things break |
+
+---
+
+### `$ pacman -Qe`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,c,php&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,wordpress,redis,git&theme=dark" alt="Frameworks and tools" /><br/>
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,qt,vscode,github&theme=dark" alt="Environment" />
+</p>
+
+---
+
+### `$ ls ~/projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| [mirage](https://github.com/adi-pr/mirage) | A self-mutating network deception system | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [MemoCore](https://github.com/adi-pr/MemoCore) | RAG engine that turns Wiki.js content into a context-aware assistant using local LLMs and vector search | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [dev](https://github.com/adi-pr/dev) | A personal CLI for my Linux workstation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [whatsarr](https://github.com/adi-pr/whatsarr) | Radarr, Sonarr and Prowlarr, controlled from WhatsApp | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [mmg-wp-plugin](https://github.com/adi-pr/mmg-wp-plugin) | WooCommerce gateway for the MMG Checkout API, which I help maintain | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [odoo-client-handler](https://github.com/adi-pr/odoo-client-handler) | pip package for working with Odoo databases over XML-RPC | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [lc-3-vm](https://github.com/adi-pr/lc-3-vm) | A virtual machine for the LC-3 architecture | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+
+---
+
+### `$ journalctl -u github`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-pr&theme=github_dark" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-pr&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adi-pr&theme=github_dark" alt="Top languages by commit" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi-pr&theme=github_dark" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-pr&theme=github_dark&utcOffset=-4" alt="Productive time" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adi-pr&background=0d1117&ring=1793D1&fire=1793D1&currStreakLabel=1793D1&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1793D1/adi-pr" alt="Contribution chart" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <code>$ exit</code> &nbsp;·&nbsp; Open to interesting projects and collaborations, so feel free to reach out.
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1793D1,100:0d1117&height=120&section=footer" alt="footer" />
+</p>
