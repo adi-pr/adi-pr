@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1793D1,100:0d1117&height=200&section=header&text=Aditya%20(Ruben)%20Prasad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Technical%20Lead%20%E2%80%A2%20Web%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:DC2626,100:0d1117&height=200&section=header&text=Aditya%20(Ruben)%20Prasad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Technical%20Lead%20%E2%80%A2%20Web%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/adi-pr">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1793D1&center=true&vCenter=true&width=600&lines=Building+backend+systems+and+infra;Shipping+RAG+and+local+LLM+tooling;Turning+drone+data+into+maps;Breaking+web+apps+(legally);btw%2C+I+use+Arch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=600&lines=Building+backend+systems+and+infra;Shipping+RAG+and+local+LLM+tooling;Turning+drone+data+into+maps;Breaking+web+apps+(legally);btw%2C+I+use+Arch" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Georgetown-Guyana-1793D1?style=flat-square" alt="Guyana" />
-  <a href="https://linkedin.com/in/aditya-prasad-325522243"><img src="https://img.shields.io/badge/LinkedIn-connect-1793D1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Arch%20Linux-btw-DC2626?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Georgetown-Guyana-DC2626?style=flat-square" alt="Guyana" />
+  <a href="https://linkedin.com/in/aditya-prasad-325522243"><img src="https://img.shields.io/badge/LinkedIn-connect-DC2626?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -97,11 +97,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adi-pr&background=0d1117&ring=1793D1&fire=1793D1&currStreakLabel=1793D1&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=adi-pr&background=0d1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1793D1/adi-pr" alt="Contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/DC2626/adi-pr" alt="Contribution chart" width="100%" />
 </p>
 
 ---
@@ -112,5 +112,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1793D1,100:0d1117&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:DC2626,100:0d1117&height=120&section=footer" alt="footer" />
 </p>
